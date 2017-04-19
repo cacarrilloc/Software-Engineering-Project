@@ -1,0 +1,12 @@
+//c9 MySQL database info
+//https://community.c9.io/t/setting-up-mysql/1718
+
+//useful commands
+//mysql-ctl cli (starts mysql command line)
+//show databases; (view existing databases)     we will be using database c9 for our project
+//use <tablename>; (selects a database)
+//show tables; (view existing tables)
+
+
+//w3schools PHP info
+//http://www.w3schools.com/PHP/default.asp

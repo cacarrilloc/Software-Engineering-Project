@@ -1,0 +1,16 @@
+[29-Jul-2016 07:10:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/ubuntu/workspace/public/db_2/db_connect.php on line 6
+[29-Jul-2016 07:10:01 UTC] PHP Stack trace:
+[29-Jul-2016 07:10:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/db_2/home.php:0
+[29-Jul-2016 07:10:01 UTC] PHP   2. include() /home/ubuntu/workspace/public/db_2/home.php:3
+[29-Jul-2016 07:10:01 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/public/db_2/db_connect.php:6
+[29-Jul-2016 07:16:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/ubuntu/workspace/public/db_2/db_connect.php on line 6
+[29-Jul-2016 07:16:08 UTC] PHP Stack trace:
+[29-Jul-2016 07:16:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/db_2/home.php:0
+[29-Jul-2016 07:16:08 UTC] PHP   2. include() /home/ubuntu/workspace/public/db_2/home.php:3
+[29-Jul-2016 07:16:08 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/public/db_2/db_connect.php:6
+[02-Aug-2016 05:02:26 UTC] PHP Warning:  include(template_prepend.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/db_2/ballot.php on line 2
+[02-Aug-2016 05:02:26 UTC] PHP Stack trace:
+[02-Aug-2016 05:02:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/db_2/ballot.php:0
+[02-Aug-2016 05:02:26 UTC] PHP Warning:  include(): Failed opening 'template_prepend.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/db_2/ballot.php on line 2
+[02-Aug-2016 05:02:26 UTC] PHP Stack trace:
+[02-Aug-2016 05:02:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/db_2/ballot.php:0
